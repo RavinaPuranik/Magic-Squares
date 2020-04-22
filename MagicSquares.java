@@ -1,7 +1,7 @@
 //make magic squares of any odd number
 
 import java.util.Scanner;
-public class HelloWorld{
+public class MagicSquare{
      
      static void makeMagicSquare(int number){
          int arr[][]=new int[number][number];
