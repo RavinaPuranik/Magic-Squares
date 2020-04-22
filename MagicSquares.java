@@ -50,7 +50,7 @@ public class MagicSquare{
          
          for(int i=0;i<number;i++){
              for(int j=0;j<number;j++)
-             System.out.print(arr[i][j]+ "    ");
+             System.out.print(arr[i][j]+ "\t");
              System.out.println();
          }
          
