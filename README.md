@@ -10,6 +10,7 @@ To execute:
 
 The sum of any row/column/diaagonal = The the middle element of the magic square * odd number given in input. For eg:
 For magic square of 3: 
+
 4    3    8    
 9    5    1    
 2    7    6 
